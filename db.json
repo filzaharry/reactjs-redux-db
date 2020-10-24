@@ -3,85 +3,482 @@
     {
       "id": 1,
       "name": "Filza Harry",
-      "nik": "APK.132",
-      "jabatan": "Staff",
-      "departemen": "Produksi-Baja Ringan",
-      "kontrak": "1 Tahun",
-      "tglMulai": "12-10-2020",
-      "tglSelesai": "12-10-2021"
+      "image": "https://www.denofgeek.com/wp-content/uploads/2020/04/Kamen-Rider-Kuuga.png?fit=2400%2C1350",
+      "nilai": [
+        {
+          "id": 1,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2020",
+          "tglSelesai": "12-10-2021",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "diperpanjang"
+        },
+        {
+          "id": 2,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2021",
+          "tglSelesai": "12-10-2022",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "diperpanjang"
+        },
+        {
+          "id": 3,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2022",
+          "tglSelesai": "12-10-2023",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "selesai"
+        }
+      ],
+      "about": [
+        {
+          "tempatLahir": "Yogyakarta",
+          "tglLahir": "08-01-1997",
+          "gender": "male",
+          "agama": "Islam",
+          "alamat": "Perum Bumi Indah, Tahap V Blok Li No. 44 RT 08 RW 07, Kec. Pasarkemis, 15560"
+        }
+      ],
+      "job": [
+        {
+          "nik": "APK.119",
+          "tglMasuk": "10-12-20",
+          "jabatan": "Staff",
+          "departemen": "Produksi-Baja Ringan"
+        }
+      ],
+      "document": [
+        {
+          "portofolio": "portofolio.pdf",
+          "cv": "cv.pdf"
+        }
+      ]
     },
     {
       "id": 2,
       "name": "Irvan Firmansyah",
-      "nik": "APK.192",
-      "jabatan": "Staff",
-      "departemen": "Produksi-Baja Ringan",
-      "kontrak": "1 Tahun",
-      "tglMulai": "12-10-2020",
-      "tglSelesai": "12-10-2021"
+      "image": "https://www.denofgeek.com/wp-content/uploads/2020/04/Kamen-Rider-Kuuga.png?fit=2400%2C1350",
+      "nilai": [
+        {
+          "id": 1,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2020",
+          "tglSelesai": "12-10-2021",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "diperpanjang"
+        },
+        {
+          "id": 2,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2021",
+          "tglSelesai": "12-10-2022",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "diperpanjang"
+        },
+        {
+          "id": 3,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2022",
+          "tglSelesai": "12-10-2023",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "selesai"
+        }
+      ],
+      "about": [
+        {
+          "tempatLahir": "Yogyakarta",
+          "tglLahir": "08-01-1997",
+          "gender": "male",
+          "agama": "Islam",
+          "alamat": "Perum Bumi Indah, Tahap V Blok Li No. 44 RT 08 RW 07, Kec. Pasarkemis, 15560"
+        }
+      ],
+      "job": [
+        {
+          "nik": "APK.119",
+          "tglMasuk": "10-12-20",
+          "jabatan": "Staff",
+          "departemen": "Produksi-Baja Ringan"
+        }
+      ],
+      "document": [
+        {
+          "portofolio": "portofolio.pdf",
+          "cv": "cv.pdf"
+        }
+      ]
     },
     {
       "id": 3,
       "name": "Rizky Yugho",
-      "nik": "APK.212",
-      "jabatan": "Staff",
-      "departemen": "IT SUpport",
-      "kontrak": "1 Tahun",
-      "tglMulai": "03-02-2020",
-      "tglSelesai": "03-02-2021"
+      "image": "https://www.denofgeek.com/wp-content/uploads/2020/04/Kamen-Rider-Kuuga.png?fit=2400%2C1350",
+      "nilai": [
+        {
+          "id": 1,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2020",
+          "tglSelesai": "12-10-2021",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "diperpanjang"
+        },
+        {
+          "id": 2,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2021",
+          "tglSelesai": "12-10-2022",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "diperpanjang"
+        },
+        {
+          "id": 3,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2022",
+          "tglSelesai": "12-10-2023",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "selesai"
+        }
+      ],
+      "about": [
+        {
+          "tempatLahir": "Yogyakarta",
+          "tglLahir": "08-01-1997",
+          "gender": "male",
+          "agama": "Islam",
+          "alamat": "Perum Bumi Indah, Tahap V Blok Li No. 44 RT 08 RW 07, Kec. Pasarkemis, 15560"
+        }
+      ],
+      "job": [
+        {
+          "nik": "APK.119",
+          "tglMasuk": "10-12-20",
+          "jabatan": "Staff",
+          "departemen": "Produksi-Baja Ringan"
+        }
+      ],
+      "document": [
+        {
+          "portofolio": "portofolio.pdf",
+          "cv": "cv.pdf"
+        }
+      ]
     },
     {
       "id": 4,
       "name": "Suhendar",
-      "nik": "APK.142",
-      "jabatan": "Supervisor",
-      "departemen": "Produksi-Spandeck/Bondeck",
-      "kontrak": "1 Tahun",
-      "tglMulai": "12-03-2020",
-      "tglSelesai": "12-03-2021"
+      "image": "https://www.denofgeek.com/wp-content/uploads/2020/04/Kamen-Rider-Kuuga.png?fit=2400%2C1350",
+      "nilai": [
+        {
+          "id": 1,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2020",
+          "tglSelesai": "12-10-2021",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "diperpanjang"
+        },
+        {
+          "id": 2,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2021",
+          "tglSelesai": "12-10-2022",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "diperpanjang"
+        },
+        {
+          "id": 3,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2022",
+          "tglSelesai": "12-10-2023",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "selesai"
+        }
+      ],
+      "about": [
+        {
+          "tempatLahir": "Yogyakarta",
+          "tglLahir": "08-01-1997",
+          "gender": "male",
+          "agama": "Islam",
+          "alamat": "Perum Bumi Indah, Tahap V Blok Li No. 44 RT 08 RW 07, Kec. Pasarkemis, 15560"
+        }
+      ],
+      "job": [
+        {
+          "nik": "APK.119",
+          "tglMasuk": "10-12-20",
+          "jabatan": "Staff",
+          "departemen": "Produksi-Baja Ringan"
+        }
+      ],
+      "document": [
+        {
+          "portofolio": "portofolio.pdf",
+          "cv": "cv.pdf"
+        }
+      ]
     },
     {
       "id": 5,
       "name": "Fita Fatmawati",
-      "nik": "APK.119",
-      "jabatan": "Staff",
-      "departemen": "HRD",
-      "kontrak": "1 Tahun",
-      "tglMulai": "12-07-2020",
-      "tglSelesai": "12-07-2021"
+      "image": "https://www.denofgeek.com/wp-content/uploads/2020/04/Kamen-Rider-Kuuga.png?fit=2400%2C1350",
+      "nilai": [
+        {
+          "id": 1,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2020",
+          "tglSelesai": "12-10-2021",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "diperpanjang"
+        },
+        {
+          "id": 2,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2021",
+          "tglSelesai": "12-10-2022",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "diperpanjang"
+        },
+        {
+          "id": 3,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2022",
+          "tglSelesai": "12-10-2023",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "selesai"
+        }
+      ],
+      "about": [
+        {
+          "tempatLahir": "Yogyakarta",
+          "tglLahir": "08-01-1997",
+          "gender": "male",
+          "agama": "Islam",
+          "alamat": "Perum Bumi Indah, Tahap V Blok Li No. 44 RT 08 RW 07, Kec. Pasarkemis, 15560"
+        }
+      ],
+      "job": [
+        {
+          "nik": "APK.119",
+          "tglMasuk": "10-12-20",
+          "jabatan": "Staff",
+          "departemen": "Produksi-Baja Ringan"
+        }
+      ],
+      "document": [
+        {
+          "portofolio": "portofolio.pdf",
+          "cv": "cv.pdf"
+        }
+      ]
     },
     {
       "id": 6,
-      "image": "",
       "name": "Filza Harry",
-      "nik": "APK.123",
-      "jabatan": "Staff",
-      "departemen": "HRD",
-      "kontrak": "1 Tahun",
-      "tglMulai": "12-10-20",
-      "tglSelesai": "12-10-20"
+      "image": "https://www.denofgeek.com/wp-content/uploads/2020/04/Kamen-Rider-Kuuga.png?fit=2400%2C1350",
+      "nilai": [
+        {
+          "id": 1,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2020",
+          "tglSelesai": "12-10-2021",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "diperpanjang"
+        },
+        {
+          "id": 2,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2021",
+          "tglSelesai": "12-10-2022",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "diperpanjang"
+        },
+        {
+          "id": 3,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2022",
+          "tglSelesai": "12-10-2023",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "selesai"
+        }
+      ],
+      "about": [
+        {
+          "tempatLahir": "Yogyakarta",
+          "tglLahir": "08-01-1997",
+          "gender": "male",
+          "agama": "Islam",
+          "alamat": "Perum Bumi Indah, Tahap V Blok Li No. 44 RT 08 RW 07, Kec. Pasarkemis, 15560"
+        }
+      ],
+      "job": [
+        {
+          "nik": "APK.119",
+          "tglMasuk": "10-12-20",
+          "jabatan": "Staff",
+          "departemen": "Produksi-Baja Ringan"
+        }
+      ],
+      "document": [
+        {
+          "portofolio": "portofolio.pdf",
+          "cv": "cv.pdf"
+        }
+      ]
     },
     {
       "id": 7,
-      "image": "",
       "name": "Melani Rapina",
-      "nik": "APK.221",
-      "jabatan": "Staff",
-      "departemen": "Produksi",
-      "kontrak": "1 Tahun",
-      "tglMulai": "12-10-20",
-      "tglSelesai": "12-10-20"
+      "image": "https://www.denofgeek.com/wp-content/uploads/2020/04/Kamen-Rider-Kuuga.png?fit=2400%2C1350",
+      "nilai": [
+        {
+          "id": 1,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2020",
+          "tglSelesai": "12-10-2021",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "diperpanjang"
+        },
+        {
+          "id": 2,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2021",
+          "tglSelesai": "12-10-2022",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "diperpanjang"
+        },
+        {
+          "id": 3,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2022",
+          "tglSelesai": "12-10-2023",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "selesai"
+        }
+      ],
+      "about": [
+        {
+          "tempatLahir": "Yogyakarta",
+          "tglLahir": "08-01-1997",
+          "gender": "male",
+          "agama": "Islam",
+          "alamat": "Perum Bumi Indah, Tahap V Blok Li No. 44 RT 08 RW 07, Kec. Pasarkemis, 15560"
+        }
+      ],
+      "job": [
+        {
+          "nik": "APK.119",
+          "tglMasuk": "10-12-20",
+          "jabatan": "Staff",
+          "departemen": "Produksi-Baja Ringan"
+        }
+      ],
+      "document": [
+        {
+          "portofolio": "portofolio.pdf",
+          "cv": "cv.pdf"
+        }
+      ]
     },
     {
       "id": 8,
-      "image": "",
       "name": "Kamiyama Touma",
-      "nik": "APK.172",
-      "jabatan": "Staff",
-      "departemen": "IT Support",
-      "kontrak": "3 Bulan",
-      "tglMulai": "12-10-20",
-      "tglSelesai": "12-10-20"
+      "image": "https://www.denofgeek.com/wp-content/uploads/2020/04/Kamen-Rider-Kuuga.png?fit=2400%2C1350",
+      "nilai": [
+        {
+          "id": 1,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2020",
+          "tglSelesai": "12-10-2021",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "diperpanjang"
+        },
+        {
+          "id": 2,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2021",
+          "tglSelesai": "12-10-2022",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "diperpanjang"
+        },
+        {
+          "id": 3,
+          "kontrak": "1 Tahun",
+          "tglMulai": "12-10-2022",
+          "tglSelesai": "12-10-2023",
+          "nilaiSPV": [],
+          "nilaiHRD": [],
+          "rataNilai": 75,
+          "status": "selesai"
+        }
+      ],
+      "about": [
+        {
+          "tempatLahir": "Yogyakarta",
+          "tglLahir": "08-01-1997",
+          "gender": "male",
+          "agama": "Islam",
+          "alamat": "Perum Bumi Indah, Tahap V Blok Li No. 44 RT 08 RW 07, Kec. Pasarkemis, 15560"
+        }
+      ],
+      "job": [
+        {
+          "nik": "APK.119",
+          "tglMasuk": "10-12-20",
+          "jabatan": "Staff",
+          "departemen": "Produksi-Baja Ringan"
+        }
+      ],
+      "document": [
+        {
+          "portofolio": "portofolio.pdf",
+          "cv": "cv.pdf"
+        }
+      ]
     },
     {
       "id": 9,
