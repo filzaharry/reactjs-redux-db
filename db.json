@@ -16,7 +16,15 @@
       "agama": "Islam",
       "alamat": "Perum Bumi Indah, Tahap V Blok Li No. 44 RT 08 RW 07, Kec. Pasarkemis, 15560",
       "portofolio": "https://drive.google.com/file/d/1j2jTnpR_ll0EtVjOOkynpY5gNa0RJhhw/view?usp=sharing",
-      "cv": "https://drive.google.com/file/d/1j2jTnpR_ll0EtVjOOkynpY5gNa0RJhhw/view?usp=sharing"
+      "cv": "https://drive.google.com/file/d/1j2jTnpR_ll0EtVjOOkynpY5gNa0RJhhw/view?usp=sharing",
+      "nilai": [
+        {
+          "periode": "1",
+          "nilaiHRD": "80",
+          "nilaiSPV": "90",
+          "status": "diperpanjang"
+        }
+      ]
     },
     {
       "id": 2,
