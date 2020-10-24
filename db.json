@@ -1,9 +1,19 @@
 {
   "karyawan": [
     {
-      "id": 2,
+      "id": 1,
       "name": "Filza Harry",
       "nik": "APK.132",
+      "jabatan": "Staff",
+      "departemen": "Produksi-Baja Ringan",
+      "kontrak": "1 Tahun",
+      "tglMulai": "12-10-2020",
+      "tglSelesai": "12-10-2021"
+    },
+    {
+      "id": 2,
+      "name": "Irvan Firmansyah",
+      "nik": "APK.192",
       "jabatan": "Staff",
       "departemen": "Produksi-Baja Ringan",
       "kontrak": "1 Tahun",
@@ -41,37 +51,279 @@
       "tglSelesai": "12-07-2021"
     },
     {
-      "id": 1602993484657,
+      "id": 6,
       "image": "",
       "name": "Filza Harry",
       "nik": "APK.123",
       "jabatan": "Staff",
       "departemen": "HRD",
       "kontrak": "1 Tahun",
-      "tglMulai": 1602993484657,
-      "tglSelesai": 1602993484657
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
     },
     {
-      "id": 1602993797074,
+      "id": 7,
       "image": "",
       "name": "Melani Rapina",
       "nik": "APK.221",
       "jabatan": "Staff",
       "departemen": "Produksi",
       "kontrak": "1 Tahun",
-      "tglMulai": 1602993797074,
-      "tglSelesai": 1602993797074
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
     },
     {
-      "id": 1603023645187,
+      "id": 8,
       "image": "",
       "name": "Kamiyama Touma",
       "nik": "APK.172",
       "jabatan": "Staff",
       "departemen": "IT Support",
       "kontrak": "3 Bulan",
-      "tglMulai": 1603023645187,
-      "tglSelesai": 1603023645187
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
+    },
+    {
+      "id": 9,
+      "image": "",
+      "name": "Kamiyama Touma",
+      "nik": "APK.172",
+      "jabatan": "Staff",
+      "departemen": "IT Support",
+      "kontrak": "3 Bulan",
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
+    },
+    {
+      "id": 10,
+      "image": "",
+      "name": "Kamiyama Touma",
+      "nik": "APK.172",
+      "jabatan": "Staff",
+      "departemen": "IT Support",
+      "kontrak": "3 Bulan",
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
+    },
+    {
+      "id": 11,
+      "image": "",
+      "name": "Kamiyama Touma",
+      "nik": "APK.172",
+      "jabatan": "Staff",
+      "departemen": "IT Support",
+      "kontrak": "3 Bulan",
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
+    },
+    {
+      "id": 12,
+      "image": "",
+      "name": "Kamiyama Touma",
+      "nik": "APK.172",
+      "jabatan": "Staff",
+      "departemen": "IT Support",
+      "kontrak": "3 Bulan",
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
+    },
+    {
+      "id": 13,
+      "image": "",
+      "name": "Kamiyama Touma",
+      "nik": "APK.172",
+      "jabatan": "Staff",
+      "departemen": "IT Support",
+      "kontrak": "3 Bulan",
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
+    },
+    {
+      "id": 14,
+      "image": "",
+      "name": "Kamiyama Touma",
+      "nik": "APK.172",
+      "jabatan": "Staff",
+      "departemen": "IT Support",
+      "kontrak": "3 Bulan",
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
+    },
+    {
+      "id": 15,
+      "image": "",
+      "name": "Kamiyama Touma",
+      "nik": "APK.172",
+      "jabatan": "Staff",
+      "departemen": "IT Support",
+      "kontrak": "3 Bulan",
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
+    },
+    {
+      "id": 16,
+      "image": "",
+      "name": "Kamiyama Touma",
+      "nik": "APK.172",
+      "jabatan": "Staff",
+      "departemen": "IT Support",
+      "kontrak": "3 Bulan",
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
+    },
+    {
+      "id": 17,
+      "image": "",
+      "name": "Kamiyama Touma",
+      "nik": "APK.172",
+      "jabatan": "Staff",
+      "departemen": "IT Support",
+      "kontrak": "3 Bulan",
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
+    },
+    {
+      "id": 18,
+      "image": "",
+      "name": "Kamiyama Touma",
+      "nik": "APK.172",
+      "jabatan": "Staff",
+      "departemen": "IT Support",
+      "kontrak": "3 Bulan",
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
+    },
+    {
+      "id": 19,
+      "image": "",
+      "name": "Kamiyama Touma",
+      "nik": "APK.172",
+      "jabatan": "Staff",
+      "departemen": "IT Support",
+      "kontrak": "3 Bulan",
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
+    },
+    {
+      "id": 20,
+      "image": "",
+      "name": "Kamiyama Touma",
+      "nik": "APK.172",
+      "jabatan": "Staff",
+      "departemen": "IT Support",
+      "kontrak": "3 Bulan",
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
+    },
+    {
+      "id": 21,
+      "image": "",
+      "name": "Kamiyama Touma",
+      "nik": "APK.172",
+      "jabatan": "Staff",
+      "departemen": "IT Support",
+      "kontrak": "3 Bulan",
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
+    },
+    {
+      "id": 22,
+      "image": "",
+      "name": "Kamiyama Touma",
+      "nik": "APK.172",
+      "jabatan": "Staff",
+      "departemen": "IT Support",
+      "kontrak": "3 Bulan",
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
+    },
+    {
+      "id": 23,
+      "image": "",
+      "name": "Kamiyama Touma",
+      "nik": "APK.172",
+      "jabatan": "Staff",
+      "departemen": "IT Support",
+      "kontrak": "3 Bulan",
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
+    },
+    {
+      "id": 24,
+      "image": "",
+      "name": "Kamiyama Touma",
+      "nik": "APK.172",
+      "jabatan": "Staff",
+      "departemen": "IT Support",
+      "kontrak": "3 Bulan",
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
+    },
+    {
+      "id": 25,
+      "image": "",
+      "name": "Kamiyama Touma",
+      "nik": "APK.172",
+      "jabatan": "Staff",
+      "departemen": "IT Support",
+      "kontrak": "3 Bulan",
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
+    },
+    {
+      "id": 26,
+      "image": "",
+      "name": "Kamiyama Touma",
+      "nik": "APK.172",
+      "jabatan": "Staff",
+      "departemen": "IT Support",
+      "kontrak": "3 Bulan",
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
+    },
+    {
+      "id": 27,
+      "image": "",
+      "name": "Kamiyama Touma",
+      "nik": "APK.172",
+      "jabatan": "Staff",
+      "departemen": "IT Support",
+      "kontrak": "3 Bulan",
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
+    },
+    {
+      "id": 28,
+      "image": "",
+      "name": "Kamiyama Touma",
+      "nik": "APK.172",
+      "jabatan": "Staff",
+      "departemen": "IT Support",
+      "kontrak": "3 Bulan",
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
+    },
+    {
+      "id": 29,
+      "image": "",
+      "name": "Kamiyama Touma",
+      "nik": "APK.172",
+      "jabatan": "Staff",
+      "departemen": "IT Support",
+      "kontrak": "3 Bulan",
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
+    },
+    {
+      "id": 30,
+      "image": "",
+      "name": "Kamiyama Touma",
+      "nik": "APK.172",
+      "jabatan": "Staff",
+      "departemen": "IT Support",
+      "kontrak": "3 Bulan",
+      "tglMulai": "12-10-20",
+      "tglSelesai": "12-10-20"
     }
   ]
 }
