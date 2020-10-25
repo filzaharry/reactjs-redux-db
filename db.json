@@ -23,6 +23,12 @@
           "nilaiHRD": "80",
           "nilaiSPV": "90",
           "status": "diperpanjang"
+        },
+         {
+          "periodeId": "2",
+          "nilaiHRD": "80",
+          "nilaiSPV": "90",
+          "status": "selesai"
         }
       ]
     },
