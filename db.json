@@ -16,7 +16,7 @@
       "alamat": "Perum Bumi Indah, Tahap V Blok Li No. 44 RT 08 RW 07, Kec. Pasarkemis, 15560",
       "portofolio": "https://drive.google.com/file/d/1j2jTnpR_ll0EtVjOOkynpY5gNa0RJhhw/view?usp=sharing",
       "cv": "https://drive.google.com/file/d/1j2jTnpR_ll0EtVjOOkynpY5gNa0RJhhw/view?usp=sharing",
-      "nilai": [
+      "nilai":
         {
           "id": 1,
           "kontrak": "3 Bulan",
@@ -31,7 +31,6 @@
           "nilaiSPV": "40",
           "status": "selesai"
         }
-      ]
     },
     {
       "id": 2,
